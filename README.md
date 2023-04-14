@@ -11,4 +11,4 @@ Diet Tracker app is an app with lots of potential. I can start this as a simple 
 ### Keep track of food habits
 
 # Extras
-### form competitions with friends on diet and weight loss
+### Form competitions with friends on diet and weight loss
