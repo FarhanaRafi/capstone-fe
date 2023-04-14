@@ -8,3 +8,4 @@ Diet Tracker app is an app with lots of potential. I can start this as a simple 
 ### Weight tracking
 ### Water reminder
 ### Progress tracking
+### Keep track of food habits
